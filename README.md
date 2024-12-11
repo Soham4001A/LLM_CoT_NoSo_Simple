@@ -6,5 +6,4 @@ In this paper, we demonstrated how baseline models such as OpenAI's GPT-4o and A
 
 I am excited for AGI, are you?
 
-Read more about it: GitHub Repository
 #AI #MachineLearning #LLM #Innovation #AGI #OpenAI #Anthropic #ArtificialIntelligence
